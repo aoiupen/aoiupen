@@ -1,8 +1,16 @@
-### Hi there 👋
+### Python, Blender Developer
+* PyQt
+* Blender Add on
+* Blender Modeling
+
+### Interest
+* UX
+* Process Improvement
+* Video
 
 <!--
-**aoiupen/aoiupen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**aoiupen/aoiupen** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋✨
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
