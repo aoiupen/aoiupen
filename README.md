@@ -1,13 +1,20 @@
-### Python, Blender Developer
-* PyQt
-* Blender Add on
-* Blender Modeling
 
+
+### 🛠 Skills
+* Python
+* C#
+* Blender
+* Git
+* Midjourney
+
+### Links
+* [Emoticon](https://ogqmarket.naver.com/creators/aoiu)
+* [Instagram](https://instagram.com/loroloro.art)
+  
 ### Interest
 * UX
 * Video
 * Process Improvement
-
 
 <!--
 **aoiupen/aoiupen** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
