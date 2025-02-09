@@ -7,11 +7,11 @@
 * Git
 * Midjourney
 
-### Links
+### 🚀 Links
 * [Emoticon](https://ogqmarket.naver.com/creators/aoiu)
 * [Instagram](https://instagram.com/loroloro.art)
   
-### Interest
+### ❤️ Interest
 * UX
 * Video
 * Process Improvement
