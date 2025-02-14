@@ -1,16 +1,11 @@
 
 
-### 🛠 Skills
-* Python
-* C#
-* Blender
-* Git
-* Midjourney
+#### Skills  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)  ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  ![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=flat-square)  
+
   
-### ❤️ Interest
-* UX
-* Video
-* Process Improvement
+#### Interest
+![UX](https://img.shields.io/badge/UX-Process_Improvement-ff69b4?style=flat-square)  ![Video Editing](https://img.shields.io/badge/Video-Editing-0088cc?style=flat-square)  ![AI](https://img.shields.io/badge/AI-Generative_Art-blue?style=flat-square)  
 
 <!--
 **aoiupen/aoiupen** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
