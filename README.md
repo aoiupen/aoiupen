@@ -8,7 +8,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Stable Diffusion](https://img.shields.io/badge/StableDiffusion-000000?style=flat-square&logo=stable-diffusion&logoColor=white)  ![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=flat-square) 
   
 ![Interest](https://img.shields.io/badge/Interest-FFFFFF?style=flat-square&logoColor=000000&labelColor=FFFFFF&color=FFFFFF&label=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20)
-![3D Motion Graphics](https://img.shields.io/badge/3D%20Motion%20Graphics-000000?style=flat-square&logo=blender&logoColor=white) ![3D Visualization](https://img.shields.io/badge/3D%20Visualization-FF5733?style=flat-square&logo=blender&logoColor=white) ![UX](https://img.shields.io/badge/UX-Process_Improvement-ff69b4?style=flat-square) ![AI](https://img.shields.io/badge/AI-Generative_Art-blue?style=flat-square)  
+![3D Motion Graphics](https://img.shields.io/badge/3D%20Motion%20Graphics-000000?style=flat-square&logo=blender&logoColor=white) ![UX](https://img.shields.io/badge/UX-Process_Improvement-ff69b4?style=flat-square) ![AI](https://img.shields.io/badge/AI-Generative_Art-blue?style=flat-square)  
 
 <!--
 **aoiupen/aoiupen** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
