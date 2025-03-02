@@ -4,7 +4,7 @@
 
 
 
-![Process_Improvement](https://img.shields.io/badge/Process%20Improvement%20-aaaaaa?style=flat-square) ![3D Motion Graphics](https://img.shields.io/badge/3D%20Motion%20Graphics-aaaaaa?style=flat-square&logo=blender&logoColor=white) ![AI Generative Art](https://img.shields.io/badge/AI%20Generative%20Art-aaaaaa?style=flat-square) ![UX](https://img.shields.io/badge/UX%20-aaaaaa?style=flat-square)
+![Process_Improvement](https://img.shields.io/badge/Process%20Improvement%20-444444?style=flat-square) ![Challenge](https://img.shields.io/badge/Challenge-444444?style=flat-square) ![Direct&Support](https://img.shields.io/badge/Support%20&%20Direct%20-444444?style=flat-square) 
 
 <!--
 **aoiupen/aoiupen** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
