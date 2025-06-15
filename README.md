@@ -8,7 +8,7 @@
 
 ### 🌱 Project Evolution (프로젝트 발전 과정)
 
-![Sankey Diagram](images/sankey.png)
+![Sankey Diagram](images/Sankey.png)
 
 <!--
 **aoiupen/aoiupen** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
