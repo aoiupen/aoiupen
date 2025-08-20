@@ -1,26 +1,40 @@
+# 🚀 AI Workflow & Experience Producer  
+
+**Problem → Workflow → Impact**  
+Lead time ↓65% · Clicks ↓99%+ · Productivity ↑3–10x  
+
+---
+
 ### 🛠️ Skills
 
-![Python](https://img.shields.io/badge/Python-0969da?style=flat-square&logo=python&logoColor=white) ![PyQt](https://img.shields.io/badge/PyQt-0969da?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-0969da?style=flat-square&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-6298F6?style=flat-square&logo=unity&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6298F6?style=flat-square&logo=postgresql&logoColor=white) ![CursorAI](https://img.shields.io/badge/Cursor%20AI-0969da?style=flat-square&logo=Cursor%20AI&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0969da?style=flat-square&logo=visualstudiocode&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-0969da?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-6298F6?style=flat-square&logo=docker&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-0969da?style=flat-square&logo=python&logoColor=white) 
+![PyQt](https://img.shields.io/badge/PyQt-0969da?style=flat-square&logo=python&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-0969da?style=flat-square&logo=csharp&logoColor=white) 
+![CursorAI](https://img.shields.io/badge/CursorAI-0969da?style=flat-square&logo=Cursor%20AI&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-0969da?style=flat-square&logo=github&logoColor=white) 
+![ComfyUI](https://img.shields.io/badge/ComfyUI-7B51BA?style=flat-square&logoColor=white) 
+![MidJourney](https://img.shields.io/badge/MidJourney-7B51BA?style=flat-square) 
+![Blender](https://img.shields.io/badge/Blender-7B51BA?style=flat-square&logo=blender&logoColor=white) 
+![Runway](https://img.shields.io/badge/Runway-7B51BA?style=flat-square&logoColor=white) 
+![Adobe CC](https://img.shields.io/badge/Adobe%20CC-7B51BA?style=flat-square&logo=adobecreativecloud&logoColor=white)
 
-![Blender](https://img.shields.io/badge/Blender-7B51BA?style=flat-square&logo=blender&logoColor=white) ![Midjourney](https://img.shields.io/badge/Midjourney-7B51BA?style=flat-square) ![Runway](https://img.shields.io/badge/Runway-918EDB?style=flat-square&logo=Runway&logoColor=white) ![Stable Diffusion](https://img.shields.io/badge/StableDiffusion-918EDB?style=flat-square&logo=stable-diffusion&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-918EDB?style=flat-square&logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-918EDB?style=flat-square&logo=adobeillustrator&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-918EDB?style=flat-square&logo=adobepremierepro&logoColor=white) ![AutoCAD](https://img.shields.io/badge/AutoCAD-918EDB?style=flat-square&logo=autocad&logoColor=white) 
+---
 
-## 
+## 📌 Selected Projects  
 
-### 🌱 Project Evolution (프로젝트 발전 과정)
+- **3D Face Dataset Automation (2022)**  
+  Reduced clicks from ~3,700 to 5 (↓99%+).  
+  *(3D 얼굴 데이터셋 구축 자동화, 클릭 횟수 99% 이상 절감)*  
 
-![ankey Diagram](images/sankey.png)
+- **AI Vision Inspection (2023)**  
+  Average productivity ↑3x through workflow automation.  
+  *(학습 이미지 분류 UX 개선, 생산성 평균 3배 향상)*  
 
-<!--
-**aoiupen/aoiupen** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-👋✨
-Here are some ideas to get you started:
+- **Brand Visualization (2024)**  
+  Designed "5-second understanding" visualization system.  
+  *(할인 정책 시각화, 빠른 이해 구조 설계)*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 Now  
+Exploring **Generative Workflow Integration** (ComfyUI + Python, PySide).  
