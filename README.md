@@ -12,6 +12,7 @@ Lead time ↓65% · Clicks ↓99%+ · Productivity ↑3–10x
 ![C#](https://img.shields.io/badge/C%23-0969da?style=flat-square&logo=csharp&logoColor=white) 
 ![CursorAI](https://img.shields.io/badge/CursorAI-0969da?style=flat-square&logo=Cursor%20AI&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-0969da?style=flat-square&logo=github&logoColor=white) 
+<br>
 ![ComfyUI](https://img.shields.io/badge/ComfyUI-7B51BA?style=flat-square&logoColor=white) 
 ![MidJourney](https://img.shields.io/badge/MidJourney-7B51BA?style=flat-square) 
 ![Blender](https://img.shields.io/badge/Blender-7B51BA?style=flat-square&logo=blender&logoColor=white) 
