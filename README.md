@@ -2,7 +2,6 @@
 
 I build practical workflows that connect AI tools, creative software, and automation
 
----
 
 ## Focus
 - AI workflow design
@@ -10,7 +9,6 @@ I build practical workflows that connect AI tools, creative software, and automa
 - Python desktop tools
 - Generative media pipelines
 
----
 
 ### Skills
 
@@ -23,15 +21,14 @@ I build practical workflows that connect AI tools, creative software, and automa
 ![Blender](https://img.shields.io/badge/Blender-7B51BA?style=flat-square&logo=blender&logoColor=white) 
 ![Adobe CC](https://img.shields.io/badge/Adobe%20CC-7B51BA?style=flat-square&logo=adobecreativecloud&logoColor=white)
 
----
 
 ## Selected Projects  
 
 **3D Face Dataset Automation (2022)**  
-Reduced manual clicks from ~3,700 to 5. 
+Reduced manual clicks from ~3,700 to 5
 
 **AI Vision Inspection Workflow (2023)**  
-Improved image review workflow and increased productivity by ~3x.
+Improved image review workflow and increased productivity by ~3x
 
 **Brand Visualization System (2024)**  
-Designed a visual structure for faster understanding of discount policies.
+Designed a visual structure for faster understanding of discount policies
