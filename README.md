@@ -4,13 +4,14 @@ I build practical workflows that connect AI tools, creative software, and automa
 
 
 ## Focus
+
 - AI workflow design
 - Creative tool automation
 - Python desktop tools
 - Generative media pipelines
 
 
-### Skills
+## Skills
 
 ![Python](https://img.shields.io/badge/Python-0969da?style=flat-square&logo=python&logoColor=white) 
 ![PySide/PyQt](https://img.shields.io/badge/PyQt-0969da?style=flat-square&logo=python&logoColor=white) 
